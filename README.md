@@ -16,7 +16,7 @@ Lysine lactylation (Kla) is a novel post-translational modification that bridges
 A standalone package is provided to support independent testing and reproducibility.
 
 ### Dataset 1: Benchmark Dataset
-The `Benchmark Dataset` folder contains the filtered lysine lactylation sites used in this study, including the official training, validation, and independent test sets.
+The `Benchmark Dataset` folder contains the filtered lysine lactylation sites used in this study, including the training, validation, and independent test sets.
 
 ### Dataset 2: Human Kla Dataset
 For comparison with state-of-the-art methods, TransKla was evaluated on the Human Kla dataset used by PBertKla. The dataset is available at:
